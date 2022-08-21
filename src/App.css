@@ -1,4 +1,14 @@
 .container {
   max-width: 1080px;
-  margin: 20px auto;
+  margin: 20px auto 0px auto;
+}
+
+ .footer {
+  width: auto;
+  text-align: center;
+  height: 30px;
+  color: #fff;
+  margin-top:80vh; 
+  padding: 30px 30px 20px 30px;
+  background-color: rgb(73, 76, 76);
 }
